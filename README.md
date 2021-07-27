@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lima404
-- 👀 I’m interested in .html .css .php
-- 🌱 I’m currently learning  .html
+  👋 Hi, I’m @Lima404 
+- 👀 I’m interested in .html .css .php .python
+- 🌱 I’m currently learning  .html .css
 - 💞️ I’m looking to collaborate on  estudo e desenvolvimento.
 - 📫 How to reach me gabriel.lima2307@uol.com.br
 
