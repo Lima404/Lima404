@@ -1,7 +1,7 @@
   👋 Hi, I’m @Lima404 
 - 👀 I’m interested in .html .css .python
 - 🌱 I’m currently learning  .html .css
-- 💞️ I’m looking to collaborate on  estudo e desenvolvimento.
+- 💞️ I’m looking to collaborate on  study and development.
 - 📫 How to reach me gabriel.lima2307@uol.com.br
 
 <!---
