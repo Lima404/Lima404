@@ -1,4 +1,4 @@
-- 💞️ I’m looking to collaborate on  study and development.
+- ✅ I’m looking to collaborate on  study and development.
 - 📫 How to reach me gabriel.lima2307@uol.com.br
 
 <p align="center">
