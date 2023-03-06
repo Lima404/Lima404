@@ -40,7 +40,7 @@
     ### Back-end:
     - python 🐍
     - c 
-    - i'm stundy typescript
+    - i'm study typescript
     - this semester i will be studying dart and java
     
     ### Front-end:
