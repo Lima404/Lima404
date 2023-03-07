@@ -59,4 +59,4 @@
 
 ### Oh no! a snakes has eating my commits, WTF 🐍!
 
-![Snake animation](https://github.com/Lim404/Lima404/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lima404/lima404/blob/output/github-contribution-grid-snake.svg)
