@@ -35,7 +35,7 @@
     
     ### Operational Systems:
     - Windows 11;
-    - Linux (Manjaro);
+    - Linux (Mint);
     
     
 <div/>
