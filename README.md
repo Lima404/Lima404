@@ -23,8 +23,6 @@
     ### Back-end:
     - python;
     - c;
-    - i'm study typescript;
-    - this semester i will be studying dart;
     
     ### Front-end:
     - Html;
@@ -32,10 +30,10 @@
     - Vue.js;
     - Java-script;
     - React;
+    - New tec Angular;
     
     ### Operational Systems:
     - Windows 11;
-    - Linux (Mint);
     
     
 <div/>
