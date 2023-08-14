@@ -23,6 +23,7 @@
     ### Back-end:
     - python;
     - c;
+    - New tec Node.js;
     
     ### Front-end:
     - Html;
