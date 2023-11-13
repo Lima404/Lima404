@@ -30,11 +30,13 @@
     - CSS;
     - Vue.js;
     - Java-script;
+    - next.js;
     - React;
     - New tec Angular;
     
     ### Operational Systems:
     - Windows 11;
+    - Macos
     
     
 <div/>
