@@ -23,13 +23,13 @@
     ### Back-end:
     - python;
     - c;
-    - New tec Node.js;
+    - Node.js - fastify;
     
     ### Front-end:
     - Html;
     - CSS;
     - Vue.js;
-    - Java-script;
+    - Java-script - typescript;
     - next.js;
     - React;
     - New tec Angular;
