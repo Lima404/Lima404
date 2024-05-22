@@ -33,6 +33,9 @@
     - next.js;
     - React;
     - New tec Angular;
+
+    ### Design UX|UI
+    -Figma
     
     ### Operational Systems:
     - Windows 11;
