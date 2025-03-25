@@ -29,6 +29,8 @@
     - Html;
     - CSS;
     - Vue.js;
+    - Quasar
+    - Pinia
     - Java-script - typescript;
     - next.js;
     - React;
